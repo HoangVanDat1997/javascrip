@@ -1,0 +1,4 @@
+ funtion=showMessager()
+ {
+    alert('chàocc');
+ }
